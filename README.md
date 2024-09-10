@@ -2,7 +2,7 @@
 
 
 LinkedIn - [Junsu Choi](https://www.linkedin.com/in/junsu-choi-64b6b6119/) 
-
+Mail - junduru019@gmail.com
 
 
 ----
