@@ -1,7 +1,7 @@
 ### Hi 😄
 
 
-LinkedIn - [Junsu Choi](https://www.linkedin.com/in/junsu-choi-64b6b6119/) 
+LinkedIn - [Junsu Choi](https://www.linkedin.com/in/jsuya/) 
 
 Mail - junduru019@gmail.com
 
