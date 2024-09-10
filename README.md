@@ -1,4 +1,10 @@
 ### Hi 😄
+
+
+LinkedIn - [Junsu Choi](https://www.linkedin.com/in/junsu-choi-64b6b6119/) 
+
+
+
 ----
 ### Experience
 
@@ -44,7 +50,7 @@ Maintainer (2016/6 ~ 2020/2)
 - SW Certificate-Professional (19.2)
 
 #### SW Certificate
-- ADsP (23.6)
+- ADsP(Advanced Data Analytics Semi-Professional, Korea) (23.6)
 
 
 <!--
