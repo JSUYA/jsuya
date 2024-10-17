@@ -42,7 +42,7 @@ Contributor (2016/5 ~2021/12)
 
 #### Tizen Screen-reader([Accessibility](https://docs.tizen.org/application/native/guides/ui/efl/accessibility-architecture/))
 Maintainer (2016/6 ~ 2020/2)
-- Participated in development of Tizen UIFramework, supported issues, supported and improved vector graphics and SVG image specifications, etc.
+- Participated in development of Tizen Screen-reader, supported issues, supported and development of AT-SPI2-based accessibility technology.
 
 #### Samsung SW Certificates
 - Asossiate architecture (22.5)
