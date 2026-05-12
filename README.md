@@ -19,7 +19,7 @@ Maintainer (2020/3 ~)
 - https://www.thorvg.org
  
 #### Samsung robot platform flutter plugins (Inner-source project)
-Maintainer (2023/6? ~)
+Maintainer (2023/6? ~ 2024)
 - Flutter plugin packages that support gRPC communication with robot devices using Protocol Buffers. (11 packages, code generator.. etc)
 
 #### Dali / [NUI](https://github.com/Samsung/TizenFX)
@@ -45,6 +45,7 @@ Maintainer (2016/6 ~ 2020/2)
 - Participated in development of Tizen Screen-reader, supported issues, supported and development of AT-SPI2-based accessibility technology.
 
 #### Samsung SW Certificates
+- AI Specialist (26.5)
 - Asossiate architecture (22.5)
 - Opensource Special list (22.11)
 - Opensource Leader (23.12)
